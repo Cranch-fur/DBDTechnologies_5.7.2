@@ -1,4 +1,4 @@
-<p align="center"><img src="Media/banner2.png" alt="DBDTechnologies" width="100%"></p>
+<p align="center"><img src="Media/banner.png" alt="DBDTechnologies" width="100%"></p>
 
 An `.asi` mod for Dead by Daylight 5.7.2 (UE 4.27, DirectX 11) that adds upscaling, reflection and latency technologies the game never shipped with. Everything is off by default and controlled through console variables.
 
